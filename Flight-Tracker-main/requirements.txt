@@ -1,2 +1,0 @@
-flightradar24
-beautifulsoup4

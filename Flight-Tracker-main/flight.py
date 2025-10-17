@@ -125,7 +125,7 @@ def main():
     print()
     print(Fore.GREEN+"--"*40+Fore.RESET)
     
-    print(Fore.CYAN+"""Tool By: Madhav :)"""+Fore.RESET)
+    print(Fore.CYAN+"""Tool Used For Tracking :)"""+Fore.RESET)
     
     # print(Fore.GREEN+"--"*40+Fore.RESET)
     
@@ -296,3 +296,4 @@ def main():
         
 if __name__=="__main__":
     main()
+
